@@ -162,3 +162,4 @@ undefined reference to symbol ’XSetForeground’
 
 ### 特别说明
 由于Linux的选择（CentOS/Ubuntu）以及Bochs的版本不同，报错会有很多有出入的地方，需要自行搜索解决
+**下载Bochs后所有操作切记在root用户下执行，否则会打不开配置文件及.img**
